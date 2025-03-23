@@ -77,6 +77,6 @@ VITE_WEATHER_GEO_API_URL=https://api.openweathermap.org/geo/1.0/direct
 3. View the current weather conditions for that city by pressing the search icon.
 
 ## Screenshots
-![Weather App Screenshot](weather-screenshot.png)
+
 
 
