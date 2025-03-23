@@ -78,5 +78,5 @@ VITE_WEATHER_GEO_API_URL=https://api.openweathermap.org/geo/1.0/direct
 
 ## Screenshots
 
-
+![Weather App Screenshot](weather-screenshot.png)
 
