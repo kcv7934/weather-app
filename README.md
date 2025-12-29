@@ -17,6 +17,8 @@ This is a simple Weather App built with React and Vite, styled using Tailwind CS
 - Font Awesome (for weather icons and UI enhancements)
 
 ## Installation
+
+First, ensure Node.js has been installed.
 To run this project locally, follow these steps:
 
 1. Clone the repository:
